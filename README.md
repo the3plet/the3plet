@@ -1,4 +1,6 @@
-#👋 Hi, I’m Sooraj
+# 👋 Hi, Sooraj here #
+Developer  | Cyber Security Enthusiast| Photographer
+------------------------------------------
 - 👀 I’m currently into React
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me [Instagram](https://www.instagram.com/s.o.o.r.a.j/), [Linkedin](linkedin.com/in/soorajksd)
