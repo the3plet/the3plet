@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sooraj
-- 👀 I’m interested in Coding, Hacking and Chilling
-- 🌱 I’m currently learning React
+- 👀 I’m currently into React
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me linkedin.com/in/soorajksd
+- 📫 How to reach me [Instagram](https://www.instagram.com/s.o.o.r.a.j/), [Linkedin](linkedin.com/in/soorajksd)
 - [![@sooraj's Holopin board](https://holopin.me/sooraj)](https://holopin.io/@sooraj)
 
 <!---
